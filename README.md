@@ -32,7 +32,7 @@ The dataset used in this project is the [Diabetes Prediction dataset from Kaggle
 
 1. Clone this repository to your local machine
 
-2. Import the diabetes-prediction.ipynb notebook into Azure Databricks
+2. Import the diabetes_prediction_notebook.ipynb notebook into Azure Databricks
 
 3. Upload the diabetes prediction dataset to Azure Databricks
 
