@@ -1,4 +1,3 @@
-
 # MLflow PySpark Pipeline for Diabetes Prediction using Azure Databricks
 
 This project showcases how to build a machine learning pipeline for predicting diabetes in patients using PySpark and MLflow, and how to deploy it using Azure Databricks.
@@ -17,16 +16,16 @@ After training the model, the predictions are made on the test data, and the mod
 The model is then logged using the mlflow.spark.log_model function, which saves the model to the MLflow registry. The model is then deployed and used to make predictions on new data.
 
 
+## Dataset
+
+The dataset used in this project is the [Diabetes Prediction dataset from Kaggle](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset), which includes medical and demographic data from patients along with their diabetes status (positive or negative). The features include age, gender, body mass index (BMI), hypertension, heart disease, smoking history, HbA1c level, and blood glucose level.
+
+
 ## Prerequisites
 
 - Azure Databricks account
 - Diabetes prediction dataset
 - PySpark, MLflow, and Azure Databricks libraries
-
-
-## Dataset
-
-The dataset used in this project is the [Diabetes Prediction dataset from Kaggle](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset), which includes medical and demographic data from patients along with their diabetes status (positive or negative). The features include age, gender, body mass index (BMI), hypertension, heart disease, smoking history, HbA1c level, and blood glucose level.
 
 
 ## Getting Started
