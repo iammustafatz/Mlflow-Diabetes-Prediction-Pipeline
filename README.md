@@ -24,6 +24,11 @@ The model is then logged using the mlflow.spark.log_model function, which saves 
 - PySpark, MLflow, and Azure Databricks libraries
 
 
+## Dataset
+
+The dataset used in this project is the [Diabetes Prediction dataset from Kaggle](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset), which includes medical and demographic data from patients along with their diabetes status (positive or negative). The features include age, gender, body mass index (BMI), hypertension, heart disease, smoking history, HbA1c level, and blood glucose level.
+
+
 ## Getting Started
 
 1. Clone this repository to your local machine
