@@ -1,6 +1,6 @@
 # MLflow PySpark Pipeline for Diabetes Prediction using Azure Databricks
 
-This project showcases how to build a machine learning pipeline for predicting diabetes in patients using PySpark and MLflow, and how to deploy it using Azure Databricks.
+This repository showcases how to build a machine learning pipeline for predicting diabetes in patients using PySpark and MLflow, and how to deploy it using Azure Databricks.
 
 
 ## Overview
